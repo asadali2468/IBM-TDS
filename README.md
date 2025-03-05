@@ -32,16 +32,13 @@ Asad Ali
 ## 📷 Screenshots
 
 Screenshots of each exercise are provided for reference:
-## 📷 Screenshots
-
-Screenshots of each exercise are provided for reference:
-- ![Title: Exercise 2 - Title](screenshots/2-title.png)
-- ![Title: Exercise 3 - Introduction](screenshots/3-intro.png)
-- ![Title: Exercise 4 - Data Science Languages](screenshots/4-dslanguages.png)
-- ![Title: Exercise 5 - Data Science Libraries](screenshots/5-dslibraries.png)
-- ![Title: Exercise 6 - Data Science Tools](screenshots/6-dstools.png)
-- ![Title: Exercise 7 - Arithmetic Expressions Introduction](screenshots/7-introarithmetic.png)
-- ![Title: Exercise 8 - Multiply and Add Integers](screenshots/8-multiplyandaddintegers.png)
-- ![Title: Exercise 9 - Convert Minutes to Hours](screenshots/9-hourstominutes.png)
-- ![Title: Exercise 10 - Objectives](screenshots/10-objectives.png)
-- ![Title: Exercise 11 - Author Details](screenshots/11-authordetails.png)
+- ![](screenshots/2-title.png)
+- ![](screenshots/3-intro.png)
+- ![](screenshots/4-dslanguages.png)
+- ![](screenshots/5-dslibraries.png)
+- ![](screenshots/6-dstools.png)
+- ![](screenshots/7-introarithmetic.png)
+- ![](screenshots/8-multiplyandaddintegers.png)
+- ![](screenshots/9-hourstominutes.png)
+- ![](screenshots/10-objectives.png)
+- ![](screenshots/11-authordetails.png)
